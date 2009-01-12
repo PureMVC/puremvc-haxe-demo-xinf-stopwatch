@@ -1,0 +1,14 @@
+- haXe 2.0.2
+- Neko 1.8.0
+get installer for both here:
+http://haxe.org/download
+
+- PureMVC_Haxe_MultiCore 1.2
+http://trac.puremvc.org/PureMVC_Haxe_MultiCore
+
+- get xinf (rev 1134)
+http://xinf.org/
+
+- SVG-enabled browser will help:
+http://www.mozilla.com/firefox/
+http://www.opera.com/download/
