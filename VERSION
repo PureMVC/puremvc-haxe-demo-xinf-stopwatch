@@ -1,7 +1,4 @@
-PureMVC haXe StateMachine Demo - StopWatch 
-Copyright (c) 2007-2008, Cliff Hall <cliff.hall@puremvc.org>
-Ported to Haxe by Zjnue Brzavi <zjnue.brzavi@puremvc.org>
-Your reuse is governed by the Creative Commons Attribution 3.0 License
+PureMVC Haxe StateMachine Demo - StopWatch
 --------------------------------------------------------------------------
 Release Date: 1/11/09
     Platform: Haxe
@@ -9,6 +6,5 @@ Release Date: 1/11/09
     Revision: 1
      Authors: Cliff Hall <cliff.hall@puremvc.org>
             : Zjnue Brzavi <zjnue.brzavi@puremvc.org>
-     License: Creative Commons Attribution 3.0 United States License
 --------------------------------------------------------------------------
 1.0 - First release on PureMVC.org. - ZB
