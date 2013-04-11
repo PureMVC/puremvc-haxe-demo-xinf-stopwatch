@@ -3,58 +3,32 @@
 # Your reuse is governed by the Creative Commons Attribution 3.0 License
 
 # JS
--cp ../../../xinf/src
--cp ../../../pmvc_haxe_multicore/src
--cp ../../../pmvc_haxe_multicore_utilities_statemachine/src
+-cp ../../xinf
+-cp ../../puremvc-haxe-multicore-framework/src
+-cp ../../puremvc-haxe-util-statemachine/src-multicore
 -cp ../src-multicore
 -js ../bin-multicore/StopWatch.js
 StopWatch
 
 --next
 # F9
--cp ../../../xinf/src
--cp ../../../pmvc_haxe_multicore/src
--cp ../../../pmvc_haxe_multicore_utilities_statemachine/src
+-cp ../../xinf
+-cp ../../puremvc-haxe-multicore-framework/src
+-cp ../../puremvc-haxe-util-statemachine/src-multicore
 -cp ../src-multicore
 -swf ../bin-multicore/StopWatch.swf
 -swf-version 9
 -main StopWatch
-
-# leaving a Xinfinity update for a little later
-#
-#--next
-# Neko - Xinfinity
-#-cp ../../../xinf/src
-#-cp ../../../xinf/src/libs/opengl/api
-#-cp ../../../xinf/src/libs/xinfinity-support/api
-#-cp ../../../xinf/src/libs/openvg/api
-#-cp ../../../xinf/src/libs/cptr/api
-#-cp ../../../pmvc_haxe_multicore/src
-#-cp ../../../pmvc_haxe_multicore_utilities_statemachine/src
-#-cp ../src-multicore
-#-lib xinf
-#-lib cptr
-#-lib opengl
-#-lib openvg
-#-lib xinfinity-support
-#-neko ../bin-multicore/StopWatch.n
-#-main StopWatch
-#-cmd nekotools boot ../bin-multicore/StopWatch.n
 
 # build docs
 # use the following command-line action to generate docs:
 # haxedoc puremvc_haxe_multicore_demos_stopwatch_docs.xml -f Array -f Bool -f org -f Class -f Dynamic -f Enum -f float -f Hash -f Int -f Iter -f List -f Math -f Null -f Reflect -f Std -f String -f Type -f Void -f Value
 --next
 # change the following line to the path of pureMVC framework sources
--cp ../../../xinf/src
--cp ../../../xinf/src/libs/opengl/api
--cp ../../../xinf/src/libs/xinfinity-support/api
--cp ../../../xinf/src/libs/openvg/api
--cp ../../../xinf/src/libs/cptr/api
--cp ../../../pmvc_haxe_multicore/src
--cp ../../../pmvc_haxe_multicore_utilities_statemachine/src
+-cp ../../xinf
+-cp ../../puremvc-haxe-multicore-framework/src
+-cp ../../puremvc-haxe-util-statemachine/src-multicore
 -cp ../src-multicore
--neko ../doc-multicore/all.n
 -xml ../doc-multicore/puremvc_haxe_multicore_demos_stopwatch_docs.xml
 StopWatch
 -cmd cd ../doc-multicore
