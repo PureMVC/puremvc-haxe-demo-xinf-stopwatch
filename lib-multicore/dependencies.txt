@@ -1,14 +1,6 @@
-- haXe 2.0.2
-- Neko 1.8.0
-get installer for both here:
-http://haxe.org/download
+* https://github.com/zjnue/xinf.git (puremvc branch). upstream advances here: https://github.com/dturing/xinf 
+* https://github.com/PureMVC/puremvc-haxe-multicore-framework.git
+* https://github.com/PureMVC/puremvc-haxe-util-statemachine.git (src-nulticore)
 
-- PureMVC_Haxe_MultiCore 1.2
-http://trac.puremvc.org/PureMVC_Haxe_MultiCore
-
-- get xinf (rev 1134)
-http://xinf.org/
-
-- SVG-enabled browser will help:
-http://www.mozilla.com/firefox/
-http://www.opera.com/download/
+Notes
+Supports Haxe 2 only for now
