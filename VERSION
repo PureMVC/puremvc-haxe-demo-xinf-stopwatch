@@ -3,11 +3,9 @@ PureMVC Haxe StateMachine Demo - StopWatch
 Release Date: 4/20/13
     Platform: Haxe
      Version: 1 
-    Revision: 2
+    Revision: 1
       Author: Zjnue Brzavi <zjnue.brzavi@puremvc.org>
 --------------------------------------------------------------------------
-1.2 - Minor config updates
-
-1.1 - Haxe 2 compatibility
+1.1 - Minor config updates
 
 1.0 - First release on PureMVC.org. - ZB
