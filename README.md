@@ -1,7 +1,7 @@
 ## [PureMVC](http://puremvc.github.com/) [Haxe](https://github.com/PureMVC/puremvc-haxe-standard-framework/wiki) Demo: Stopwatch
 This demo illustrates the use of the [StateMachine Utility](https://github.com/PureMVC/puremvc-haxe-util-statemachine/wiki) to define and navigate the states of a Finite State Machine (FSM) of a working StopWatch.  Xinf is used to create the user interface.
 
-* [Live Demo](http://darkstar.puremvc.org/content_header.html?url=http://puremvc.org/pages/demos/Haxe/Demo_Haxe_Xinf_StopWatch/bin-standard/&desc=PureMVC%20Haxe%20Demo:%20Stopwatch)
+* [Live Demo](http://puremvc.org/pages/demos/Haxe/Demo_Haxe_Xinf_StopWatch/bin-standard/)
 * [Discussion](http://forums.puremvc.org/index.php?topic=885.0)
 
 ## Screenshot
